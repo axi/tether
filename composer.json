@@ -1,0 +1,24 @@
+{
+    "name": "axi/tether",
+    "description": "Clone of hubspot/tether",
+    "type": "library",
+    "homepage": "https://github.com/Axi/tether.git",
+    "version": "1.3.2",
+    
+    "require": {
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "axi/tether",
+                "version": "1.3.2",
+                "source": {
+                    "url": "https://github.com/Axi/tether.git",
+                    "type": "git",
+                    "reference": "1.3.2"
+                }
+            }
+        }
+    ]    
+} 
